@@ -1,4 +1,4 @@
-## 原来是这样的吗
+## plus
 
 You can use the [editor on GitHub](https://github.com/pibomiao/plusone.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
